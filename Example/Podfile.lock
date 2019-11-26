@@ -6,7 +6,7 @@ PODS:
     - Alamofire (~> 4.7)
     - ObjectMapper (~> 3.4)
   - Kanna (4.0.2)
-  - KenticoCloud (1.1.0):
+  - KenticoCloud (1.2.0):
     - AlamofireObjectMapper (~> 5.2.0)
     - Kanna (~> 4.0.2)
   - Nimble (7.3.4)
@@ -20,7 +20,7 @@ DEPENDENCIES:
   - Quick (~> 1.3.2)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - Alamofire
     - AlamofireImage
     - AlamofireObjectMapper
@@ -38,11 +38,11 @@ SPEC CHECKSUMS:
   AlamofireImage: 78d67ccbb763d87ba44b21583d2153500a195630
   AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
   Kanna: c60b61d72554bf04ed1ee074f9b379855cab4892
-  KenticoCloud: 06743eae425219534f2d0409f2f6009275dd1ad1
+  KenticoCloud: 4c6230094722fa9eb8254fca2cd932c4f4603025
   Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
   ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
   Quick: 2623cb30d7a7f41ca62f684f679586558f483d46
 
 PODFILE CHECKSUM: be8ff80359817997bf5b452445e9ec494b133e06
 
-COCOAPODS: 1.6.0.beta.2
+COCOAPODS: 1.8.4
